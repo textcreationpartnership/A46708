@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals made to the reverend clergy of the arch-deaconry of Norwich, concerning the reformation of manners, and promoting the interest of true religion and virtue. Together with a specimen of the assistance they may afford their parishioners for attaining religious knowledge, and exercising Christian devotion. By John Jeffery, D.D. Arch-deacon of Norwich.</title>
+            <author>Jeffery, John, 1647-1720.</author>
+         </titleStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46708</idno><idno type="EEBO-CITATION">99826158</idno>
+  <idno type="VID">30550</idno>
+  <idno type="EEBO-PROQUEST">2248520278</idno>
+  
+            <idno type="STC">Wing J517</idno>
+            <idno type="STC">ESTC R213906</idno>
+            <idno type="PROQUEST">99826158</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826158e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46708)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30550)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1761:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals made to the reverend clergy of the arch-deaconry of Norwich, concerning the reformation of manners, and promoting the interest of true religion and virtue. Together with a specimen of the assistance they may afford their parishioners for attaining religious knowledge, and exercising Christian devotion. By John Jeffery, D.D. Arch-deacon of Norwich.</title>
+                  <author>Jeffery, John, 1647-1720.</author>
+               </titleStmt>
+               <extent>[10], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Goddard, bookseller in Norwich,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Clergy --  England --  Early works to 1800.</term>
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30550:1"/>
+            <p>PROPOSALS Made to the Reverend Clergy OF THE Arch-Deaconry of <hi>Norwich,</hi> Concerning the <hi>Reformation of Manners,</hi> And promoting the Interest of true Religion and Virtue.</p>
+            <p>Together with A <hi>Specimen</hi> of the Assistance They may afford their Parishioners for attain<g ref="char:EOLhyphen"/>ing Religious Knowledge, and ex<g ref="char:EOLhyphen"/>ercising Christian Devotion.</p>
+            <p>By <hi>JOHN JEFFERY,</hi> D. D. Arch-Deacon of <hi>Norwich.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Goddard,</hi> Bookseller in <hi>Norwich.</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:30550:2"/>
+            <pb facs="tcp:30550:2"/>
+            <opener>
+               <salute>Reverend Brethren,</salute>
+            </opener>
+            <p>YOƲ have received the Letter of his Grace the <hi>Lord Archbishop</hi> of <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> sent unto the Right Reverend the <hi>Lords Bishops</hi> of his Province: And as the <hi>Lord Bishop of</hi> Norwich, has, by the <hi>Arch-Deacons,</hi> recommended the same unto all the Clergy of his <hi>Diocese;</hi> so, being deeply sensible of the necessity of every One's endeavouring, according to his Place and Capacity, to promote the <hi>Reformation of Manners,</hi> and the Interest of <hi>True Religion and Virtue,</hi> (which is the pious Design of that Letter) I have resolved to offer unto your Consideration, some few Particulars, which I apprehend useful to this great Purpose, hoping it may put every one of you, upon further Thoughts, by what means (accommodated to the special Necessities of your several <hi>Parishes</hi>) Reli<g ref="char:EOLhyphen"/>gion, may be brought to flourish among us.</p>
+            <p>The standing Provisions made by <hi>Law,</hi> in this Church and Kingdom, either are <hi>sufficient</hi> for the Reformation of Man<g ref="char:EOLhyphen"/>ners, or can be made so, only by our <hi>Le<g ref="char:EOLhyphen"/>gislators:</hi>
+               <pb facs="tcp:30550:3"/>But the Defects charged upon our Constitution would not seem considerable, if there were not worse Defects in some Persons, and bad Designs in others.</p>
+            <p>Through these, or some other Means, the <hi>gross Corruptions</hi> of Manners are become so enormous, That the whole Nati<g ref="char:EOLhyphen"/>on seems justly impatient of those <hi>Oppres<g ref="char:EOLhyphen"/>sions</hi> which the <hi>wickedness</hi> of Men, mu<g ref="char:EOLhyphen"/>tually impose upon one another: For the great Sins of every Man are manifestly a Mischief to those he is concerned with, when he commits them.</p>
+            <p>So that, not only the Honour of <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> and the Glory of <hi>God,</hi> but the Wel<g ref="char:EOLhyphen"/>fare and Safety of <hi>Men,</hi> makes <hi>Virtue</hi> and <hi>Reformation</hi> necessary, and without Righteousness there can be no Peace or Safe<g ref="char:EOLhyphen"/>ty upon Earth.</p>
+            <p>That which I would Remind you of, in particular, is not any <hi>new Expedient,</hi> but <hi>such Things</hi> as the Laws of God and Men have always made our necessary Duty; and such, as cannot be neglected, without the Decay of Piety, and the frustrating our other Labours, for making Men Reli<g ref="char:EOLhyphen"/>gious. I do therefore recommend</p>
+            <p n="1">
+               <hi>I.</hi> The setting up <hi>Religious Exercises</hi> in all <hi>private Families.</hi>
+            </p>
+            <p n="2">
+               <hi>II.</hi> The strict Observation of the <hi>Lord's-Day.</hi>
+            </p>
+            <p n="3">
+               <pb facs="tcp:30550:3"/>
+               <hi>III.</hi> The Teaching them, that <hi>Th<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se</hi> (and such like) are <hi>Means,</hi> in order to the making <hi>Men Religious:</hi> But, that no Man is Religious, <hi>meerly</hi> for having used such Means.</p>
+            <p n="1">
+               <hi>I.</hi> The setting up <hi>Religious Exercises</hi> in private <hi>Families,</hi> is fundamentally ne<g ref="char:EOLhyphen"/>cessary to the prevalency of Religion; and these <hi>Religious Exercises</hi> must be for</p>
+            <p>
+               <hi>First, Instruction;</hi> and</p>
+            <p>
+               <hi>Secondly, Devotion:</hi> In both which, the Minister of every Parish, may be high<g ref="char:EOLhyphen"/>ly useful to Those of his Charge. And he is to help and assist them</p>
+            <p n="1">
+               <hi>1.</hi> In such <hi>Religious Exercises</hi> as are for the <hi>private Instruction</hi> of the Family: And these Exercises must be constant and frequent.</p>
+            <p>
+               <hi>One Catechism</hi> is as useful in the Church, as <hi>one Grammer</hi> is in the Schools: And that Catechism, with which Children begin, ought to be (as ours is) very <hi>Short.</hi> But as every one who has <hi>Stu<g ref="char:EOLhyphen"/>died Christianity</hi> (with such Application, as becomes a Guide of Souls) has received an <hi>Idea of his Religion,</hi> from the Word of God, according to the <hi>Special Light,</hi> he stood in; when he took his Views of it, there: So I think, if every Minister (of Learning and Experience) did digest Those <hi>Apprehensions of Christianity,</hi> which are in his own Mind, according to the <hi>Me<g ref="char:EOLhyphen"/>thod</hi>
+               <pb facs="tcp:30550:4"/>of the <hi>Church-Catechism,</hi> and did <hi>Print</hi> and Communicate that <hi>Scheme</hi> (by which he is continually guided in his publick Discourses) to his <hi>Parishioners,</hi> that it might be Read by them, at all Times; <hi>They</hi> would not only have their Minds stored with the <hi>Substance of Christianity;</hi> but would have the <hi>same</hi> Apprehensions of it, that the Minister is continually incul<g ref="char:EOLhyphen"/>cating upon them, in his Sermons and Ad<g ref="char:EOLhyphen"/>vices. In what follows, I have given you a <hi>Specimen,</hi> or Example, of <hi>this,</hi> ac<g ref="char:EOLhyphen"/>cording to my own Thoughts, by which you will more easily and fully understand my Meaning.</p>
+            <p n="2">
+               <hi>2.</hi> The Religious Exercises for <hi>Devo<g ref="char:EOLhyphen"/>tion,</hi> may be in the Ʋse of a Form of Pray<g ref="char:EOLhyphen"/>er framed according to the Sense of the <hi>Lord's-Prayer,</hi> an Example of which I have added.</p>
+            <p>And having provided such <hi>helps</hi> for their <hi>Instruction</hi> and <hi>Devotion,</hi> the Ma<g ref="char:EOLhyphen"/>sters of Families may be Advised,</p>
+            <p n="1">
+               <hi>(1)</hi> To <hi>Read,</hi> every Morning and Evening, some Portion of Holy Scripture, as out of the <hi>Psalms</hi> and <hi>Proverbs,</hi> and the Gospel of St. <hi>Matthew</hi> and St. <hi>Luke,</hi> &amp;c. (as most <hi>plain</hi> and easy:) And then</p>
+            <p n="2">
+               <hi>(2)</hi> To use the <hi>Prayer</hi> formed by the direction of our Saviour, according to the Doctrin of his Religion;
+<note place="margin">Euke <hi>11.1.</hi>
+               </note> remembring al<g ref="char:EOLhyphen"/>ways, to do <hi>both</hi> with the greatest <hi>Reve<g ref="char:EOLhyphen"/>rence,</hi>
+               <pb facs="tcp:30550:4"/>because, as in <hi>our Prayers,</hi> we speak unto the most high God, so by his <hi>Word, God</hi> himself speaks unto us, con<g ref="char:EOLhyphen"/>cerning the Salvation and Life of our Souls.</p>
+            <p n="2">
+               <hi>II.</hi> The strict Observation of the <hi>Lord's-Day,</hi> and spending it intirely, in <hi>Publick</hi> and <hi>Private</hi> Exercises of Religion, will be of excellent Ʋse, for the keeping up in the Minds of Men, a Sense of God, and of their Duty; for the enlarging their Knowledg, exciting their Affections, and fixing their pious Resolutions.</p>
+            <p>And these <hi>Exercises of Religion</hi> may be so <hi>Varied,</hi> that they will not be tedious to any at first; but will be <hi>Delightful</hi> to all that are accustomed to them. And if in the Family, sometimes <hi>One,</hi> and sometimes <hi>Another,</hi> be employed <hi>to Read;</hi> so that none be meer constant Hearers, when the Family are together: And if each Person be permitted, otherwhile to <hi>Retire</hi> and Ex<g ref="char:EOLhyphen"/>ercise himself, according to his personal In<g ref="char:EOLhyphen"/>clination, <hi>this Variety</hi> will prevent the Fatigue, which might discourage, by too long Attendance of All the rest, upon what any One does; and by their Confinement too long, to any one Exercise.</p>
+            <p>If <hi>Children</hi> and <hi>Servants</hi> were all their Lives, and in all Places, accustomed to such <hi>Religious Exercises,</hi> a strong Sense of Religion would be established in their Minds: And their Consciences would startle
+<pb facs="tcp:30550:5"/>at those Temptations, which for want of such Tenderness, they are Ruined by. By this Preparation, they would be enabled to Profit, by the <hi>Publick Preaching;</hi> which for want of such fundamental Instruction, many are uncapable of, and for want of such Conscience, they have little Regard unto.</p>
+            <p>'Tis very much thro' the neglect of this <hi>Family-Religion,</hi> that Immorality and Profaness has so much prevailed among us; and 'tis by restoring these <hi>Religious Ex<g ref="char:EOLhyphen"/>ercises</hi> in Families, that the <hi>Reformation must</hi> be made.</p>
+            <p n="3">
+               <hi>III.</hi> The Teaching every one, that <hi>These</hi> (and such like) <hi>Religious Exercises</hi> are necessary <hi>Means</hi> of Religion, but not the whole of it,
+<note place="margin">Hebr <hi>13.18.</hi> Tit <hi>2.11, 12.</hi>
+               </note> or what will <hi>alone</hi> make Men truly Religious, is also requisite. Christi<g ref="char:EOLhyphen"/>unity is <hi>Living Honestly (i. e.</hi> Soberly, Righteously and Godly) <hi>in all Things.</hi> A Temper of Heart, and Course of Life, conformable to the <hi>Eternal Rule of Righ<g ref="char:EOLhyphen"/>teousness</hi> (the Law of Heaven) is the <hi>great End,</hi> and Aim of God, in setting up Re<g ref="char:EOLhyphen"/>ligion, and is the necessary Preparation for Happiness. So far only, as the Reason of our Minds is reconciled to the Divine Law of Righteousness; and so far only, as Men Live <hi>with Delight,</hi> according to those
+<pb facs="tcp:30550:5"/>Measures; so far, and no further, are they <hi>truly Religious.</hi> But, He that per<g ref="char:EOLhyphen"/>forms the <hi>Religious Exercises</hi> beforesaid, or any others, without making Conscience of Religious Living (doing Right to God, his Neighbour and Himself) shall be num<g ref="char:EOLhyphen"/>bred among the <hi>Unrighteous</hi> which shall <hi>not inherit the Kingdom of God;</hi> and shall have his Eternal Portion with the <hi>Pha<g ref="char:EOLhyphen"/>risees</hi> and <hi>Hypocrites.</hi>
+            </p>
+            <p>
+               <hi>Our</hi> Families therefore, being Examples of these Religious Exercises; we may Ad<g ref="char:EOLhyphen"/>vise (on just Occasions, and with prudent Seriousness) all Masters of Families, and Teachers of Schools (as by Law they are obliged) to <hi>Instruct</hi> Children in the <hi>Cate<g ref="char:EOLhyphen"/>chism,</hi> and to <hi>Inculcate</hi> upon them the ne<g ref="char:EOLhyphen"/>cessity of Living according to the <hi>Letter of the Commandments;</hi> and our Admoni<g ref="char:EOLhyphen"/>tions will <hi>not</hi> be <hi>Vain,</hi> when in our daily Prayers to God for them, our Request is, That <hi>our Endeavour for their Edificati<g ref="char:EOLhyphen"/>on and Salvation, may be effectual through the assistance of his Grace:</hi> And no Man, <hi>who considers</hi> the Account He must give of those Souls committed to his Care, can without the <hi>most sensible Concernment</hi> for <hi>Them,</hi> and for <hi>Him<g ref="char:EOLhyphen"/>self,</hi> present such Supplications unto God.</p>
+            <pb facs="tcp:30550:6"/>
+            <p>
+               <hi>And God grant we may All so</hi> Take heed unto our Selves, and to our Do<g ref="char:EOLhyphen"/>ctrin, that we may both Save our Selves, and those that hear us. <hi>I am</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Your Friend and Brother</hi>
+                  <lb/> JOHN JEFFERY, <hi>Arch-Deacon of</hi> Norwich.</signed>
+            </closer>
+         </div>
+         <div type="treatise">
+            <pb n="1" facs="tcp:30550:6"/>
+            <head>The Sum and Substance of Christianity.</head>
+            <p>HE that would receive Benefit, by the publick Instruction of the Ministers of Religion, must keep in Mind the <hi>Principles</hi> of that Religion which is the Subject of their Discourses.
+<note place="margin">
+                  <hi>Jam.</hi> 1.27.</note> And that I may <hi>Assist</hi> those who attend upon my Ministry, as far as 'tis in my Power; I shall lay before them very briefly, The <hi>Substance of that Doctrin,</hi> which I am constantly explaining and inculcating among them.</p>
+            <p>
+               <hi>True Religion</hi> is Obedience to the Laws of God, and that Religion is made known unto Men
+<list>
+                  <item>I. By <hi>Natural Reason:</hi> And</item>
+                  <item>II. By <hi>Supernatural Revelation.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. The true Religion is manifested unto Men, by <hi>Natural Reason,</hi> in the use of which, we may come to the Knowledge of God, and Goodness;
+<note place="margin">
+                  <hi>Rom.</hi> 1.19, 20. <hi>Rom.</hi> 2.14, 15.</note> by observing the Structure of the World, and the Events of Providence. For, the Nature of Things, as perceived by
+<pb n="2" facs="tcp:30550:7"/>the Reason of our Minds, directs us to the <hi>Rule of Righteousness;</hi> the moral Per<g ref="char:EOLhyphen"/>fections of God (his Goodness, Righte<g ref="char:EOLhyphen"/>ousness and Truth) being transcribed into the principal Commandments of the Moral Law: And the Religion of Men being the <hi>Imitation of God:</hi> The doing all the Right they can to him, to their Neighbours and Themselves.</p>
+            <p>But in time, This true Notion of Religion,
+<note place="margin">
+                  <hi>Rom.</hi> 1.21-32.</note> was overwhelmed by <hi>Polythe<g ref="char:EOLhyphen"/>ism, Idolatry, Superstition,</hi> and <hi>Immora<g ref="char:EOLhyphen"/>lity:</hi> And therefore it was necessary, That</p>
+            <p n="2">2. The true Religion should be made known to Men, by <hi>Supernatural Revelation:</hi> And the</p>
+            <p>First <hi>State of Religion,</hi>
+               <note place="margin">
+                  <hi>Ps.</hi> 147.19, 20. <hi>Exod. Lev.</hi>
+               </note> which God set up by <hi>Supernatural</hi> Revelation, was that among the <hi>Jews</hi> consisting of Laws <hi>Moral, Ceremonial</hi> and <hi>Judicial.</hi> The Substance of their Religion was con<g ref="char:EOLhyphen"/>tain'd in the <hi>Moral</hi> Law: The <hi>Ceremo<g ref="char:EOLhyphen"/>nial</hi> Law related to their Ecclesiastical Polity:
+<note place="margin">
+                  <hi>Hebr.</hi> 8.6-13.</note> And the <hi>Judicial</hi> Law related to their Civil Polity, which <hi>Jehovah,</hi> their King, and God set up among them.</p>
+            <p>This <hi>Jewish State</hi> of Religion is called the <hi>Old Testament</hi> or Covenant, as the <hi>Christian State</hi> of Religion is called the <hi>New Testament</hi> or Covenant.
+<note place="margin">
+                  <hi>Josh.</hi> 24.23.</note> But the Jewish Religion was at length Cor<g ref="char:EOLhyphen"/>rupted
+<pb n="3" facs="tcp:30550:7"/>by the mixture of <hi>Polytheism,
+<note place="margin">1 <hi>Kings</hi> 11.1. &amp;c. 1 <hi>Kings</hi> 12.25. &amp;c.</note> Ido<g ref="char:EOLhyphen"/>latry</hi> and <hi>Superstition,</hi> accommodated to it; and a <hi>better State</hi> of Religion was necessary for the making the <hi>World</hi> truly Religious. Therefore the</p>
+            <p>Second <hi>State</hi> of Religion which God set up by <hi>supernatural Revelation,</hi>
+               <note place="margin">
+                  <hi>Jer.</hi> 31.31, 32. <hi>Deut.</hi> 18.15, 18. <hi>Act.</hi> 3 22.</note> was that among <hi>Christians;</hi> and as this state of Religion is the <hi>Kingdom of God,</hi> of which we are Subjects; so, 'tis our Re<g ref="char:EOLhyphen"/>ligion, and our Duty as Subjects of this Kingdom of God; to <hi>obey the Laws</hi> of the Kingdom to which we belong. This state of Religion was set up by the Messiah, our Lord and King (or Law<g ref="char:EOLhyphen"/>giver, Saviour and Judge) and the Re<g ref="char:EOLhyphen"/>cords of this is the <hi>New Testament.</hi> Therein we have the <hi>Institution,</hi> the <hi>Demonstration,</hi> and the <hi>Vindication</hi> of Christianity: And <hi>this</hi> is to be the uni<g ref="char:EOLhyphen"/>versal Religion of all Mankind.</p>
+            <p>Whenever <hi>this</hi> Religion shall be <hi>Cor<g ref="char:EOLhyphen"/>rupted</hi> by Paganish Superstitions accom<g ref="char:EOLhyphen"/>modated to it;
+<note place="margin">1 <hi>Tim.</hi> 4.1, 2, 3.</note> those Corruptions must be cast out, and the Religion must be reduced to the original and divine <hi>Standard</hi> in the New Testament.</p>
+            <p>The <hi>Doctrin of this Religion</hi> we must study, because we Profess it; and hope to be Saved by it: And in the Doctrin of Christianity (the Sum of which is contained in the <hi>Church Catechism</hi>) there is</p>
+            <p n="1">
+               <pb n="4" facs="tcp:30550:8"/> I. The <hi>Fundamental</hi> and <hi>Initial</hi> part;
+<note place="margin">
+                  <hi>Heb.</hi> 6.1, 2</note> which comprehends <hi>Repentance</hi> and <hi>Faith.</hi>
+            </p>
+            <p n="2">II. The <hi>Substantial</hi> and <hi>Chief</hi> Part; which is <hi>Obedience</hi> to the Command<g ref="char:EOLhyphen"/>ments of God, as explained by Jesus Christ. And</p>
+            <p n="3">III. The <hi>Instrumental,</hi> and subordi<g ref="char:EOLhyphen"/>nate Part; which contains <hi>Prayer,</hi> and the <hi>Ministry</hi> of the Word; the Sacra<g ref="char:EOLhyphen"/>ments of Baptism and the Lord's Supper.</p>
+            <p n="1">I. The fundamental and initial part of Christianity comprehends <hi>Repentance towards God;
+<note place="margin">
+                     <hi>Act.</hi> 20.21</note> and Faith towards our Lord Jesus Chrst.</hi>
+            </p>
+            <p n="1">1. By <hi>Repentance</hi> we are to under<g ref="char:EOLhyphen"/>stand the forsaking all <hi>false Religion,</hi> and the forsaking of all <hi>vicious Practices:</hi> The Purport of which,
+<note place="margin">
+                  <hi>Tit.</hi> 2.12.</note> is set forth in the four first Questions of the <hi>Cate<g ref="char:EOLhyphen"/>chism.</hi>
+            </p>
+            <p n="2">2. By <hi>Faith</hi> we are to understand the receiving the <hi>Doctrin of Christianity,</hi> as containing the Principles and Measures of religious Life: And the Apostles <hi>Creed</hi> contains the Matter of that Faith, which may be Distinguished into these two Grand Articles,
+<note place="margin">
+                  <hi>Heb.</hi> 11.6.</note>
+               <hi>viz.</hi> That <hi>this Re<g ref="char:EOLhyphen"/>ligion is of God:</hi> And that <hi>they shall be happy who live according to this Religion.</hi>
+            </p>
+            <p n="1">
+               <pb n="5" facs="tcp:30550:8"/> 1. One grand Article is, That this <hi>Religion is of God.</hi> So we believe, who profess Christianity as the Religion which <hi>God the Father taught, by the Son,
+<note place="margin">
+                     <hi>I believe in God the Father,</hi> &amp;c. <hi>And in Je<g ref="char:EOLhyphen"/>sus Christ,</hi> &amp;c. <hi>I believe in che Holy Ghost.</hi> 1 <hi>Cor.</hi> 8.6. 1 <hi>Tim.</hi> 2.5. <hi>Mat.</hi> 28.18 2 <hi>Cor.</hi> 13.14. <hi>Eph.</hi> 2.18.</note> and confirmed by the Holy Ghost:</hi> And therefore we Christians are Disciples of God the Father, Son, and Holy Ghost; who is the Author of our Religion. This divine Person <hi>Jesus Christ</hi> (who is the Author of our Religion and of our Salvation) is the only <hi>Mediator</hi> between God and Men; and has <hi>all Power in Heaven and Earth</hi> given unto him. By him, <hi>God</hi> the <hi>Father</hi> exer<g ref="char:EOLhyphen"/>cises his Dominion over us; and by him we Sinners are Reconciled and have <hi>Access</hi> to God the Father. The principal Doctrin of <hi>meer</hi> supernatural and positive Revelation is <hi>This,</hi> con<g ref="char:EOLhyphen"/>cerning the promised <hi>Messiah;</hi>
+               <note place="margin">1 <hi>Joh.</hi> 4.2. 1 <hi>Joh.</hi> 5.1.</note> and in this, all other Doctrins of meer posi<g ref="char:EOLhyphen"/>tive Revelation necessary to our Salva<g ref="char:EOLhyphen"/>tion, are comprehended.
+<note place="margin">
+                  <hi>Joh.</hi> 17.3.</note> This is the substance of the <hi>former</hi> part of the <hi>Creed.</hi>
+            </p>
+            <p n="2">2. The other grand Article is,
+<note place="margin">
+                  <hi>The Holy Catholick Church; the Com<g ref="char:EOLhyphen"/>munion of Saints,</hi> &amp;c. <hi>Rom.</hi> 10.9, 10.</note> That <hi>They shall be happy who live according to this Religion.</hi> Christians who (in <hi>Fel<g ref="char:EOLhyphen"/>lowship</hi> one with another in the <hi>Church</hi> of God) live according to their Religi<g ref="char:EOLhyphen"/>on, are assured of the <hi>Pardon of their sins;</hi> the full effect of which, is their <hi>Resurre<g ref="char:EOLhyphen"/>ction</hi>
+               <pb n="6" facs="tcp:30550:9"/>to a blessed <hi>Immortality;</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 10.43. &amp; <hi>Act.</hi> 4.2. <hi>Rom.</hi> 6.23.</note> and this is the substance of the <hi>latter part</hi> of the <hi>Creed.</hi> &amp; <hi>Catech. Qu.</hi> 5. &amp; 6. And these two, <hi>Faith</hi> and <hi>Repentance,</hi> are the <hi>Fundamental</hi> part of our Religion.</p>
+            <p n="2">II. The <hi>substantial and chief</hi> part of Christianity is <hi>Obedience to the Command<g ref="char:EOLhyphen"/>ments of God, as explained by Jesus Christ.</hi>
+            </p>
+            <p>The <hi>Commandments</hi> of God are con<g ref="char:EOLhyphen"/>tained in the <hi>Decalogue.</hi>
+               <note place="margin">
+                  <hi>Ex.</hi> 20. <hi>Deut.</hi> 5.</note>
+            </p>
+            <p>The <hi>Explication</hi> of them by <hi>Jesus Christ</hi> is contained in the <hi>Sermon on the Mount,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 5.6, 7.</note> and other Discourses of Christ, and his Apostles.</p>
+            <p>The <hi>Commandments</hi> of God are con<g ref="char:EOLhyphen"/>tained in the <hi>Decalogue,</hi> where, in the</p>
+            <p>First Commandment,
+<note place="margin">
+                  <hi>Deut.</hi> 6.14, 15. 1 <hi>Cor.</hi> 8.5, 6, 7.</note> God forbids the <hi>Polytheism</hi> of the Heathens, <hi>i. e.</hi> the worshipping more, or others beside <hi>Je<g ref="char:EOLhyphen"/>hovah</hi> the <hi>one true God;</hi> whether under the Notion of <hi>Mediators</hi> or otherwise, <hi>Thou shalt have no other Gods,</hi> &amp;c.</p>
+            <p>In the Second Commandment God forbids the <hi>Idolatry</hi> of the Heathens, or the representing God by <hi>Images,</hi>
+               <note place="margin">
+                  <hi>Isa.</hi> 46.5-10. 1 <hi>Joh.</hi> 5.21</note> in which, the Spirits to be worshipped were reputed to dwell, after the Con<g ref="char:EOLhyphen"/>secration of those Images, <hi>Thou shalt not make to thy self any Graven Images,</hi> &amp;c.</p>
+            <p>In the Third Commandment God for<g ref="char:EOLhyphen"/>bids the <hi>Blasphemy</hi> of false Swearing,
+<note place="margin">
+                  <hi>Lev.</hi> 19.12 <hi>Mat.</hi> 5.33, 34.</note> or any such like Profanation of his Holy
+<pb n="7" facs="tcp:30550:9"/>Name. <hi>Thou shalt not take the Name of the Lord thy God in vain,</hi> &amp;c.</p>
+            <p>In the Fourth Commandment God requires the spending one Day in seven in <hi>Religious Exercises,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 2.2, 3. <hi>Deut.</hi> 5.15. <hi>Act.</hi> 20.7.</note> to the Honour of him who is the Creator and Governour of the World. <hi>Remember the Sabbath-day,</hi> &amp;c.</p>
+            <p>These Commandments of the <hi>First Table,</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 6.5. <hi>Mat.</hi> 22.36, 37, 38. <hi>Deut.</hi> 13.2.3.</note> contain the Elements of our Duty towards <hi>God,</hi> the sum of which is, <hi>To love him with all our Hearts,</hi> &amp;c.</p>
+            <p>The Six next Commandments of the <hi>Second Table,</hi> contain the Elements of our Duty towards Men.
+<note place="margin">
+                  <hi>Lev.</hi> 19.18 <hi>Mat.</hi> 22.39 <hi>Rom.</hi> 13.8, 9, 10. <hi>Mat.</hi> 7.12. <hi>Mat.</hi> 22.40</note> The sum of which is <hi>To love our Neighbour as our selves; and to do unto others, as we would they should do unto us.</hi>
+            </p>
+            <p>In the Fifth Commandment God o<g ref="char:EOLhyphen"/>bliges Children to <hi>Requite</hi> their Parents with all the Effects of Love,
+<note place="margin">
+                  <hi>Lev.</hi> 19.3. 1 <hi>Tim.</hi> 5.4.</note> Grati<g ref="char:EOLhyphen"/>tude and Reverence; <hi>Honour thy Father and thy Mother,</hi> &amp;c.</p>
+            <p>In the Sixth Commandment God for<g ref="char:EOLhyphen"/>bids the taking away the <hi>Life</hi> of any innocent Person by Design,
+<note place="margin">
+                  <hi>Gen.</hi> 9.5, 6 <hi>Rev.</hi> 13 10</note> or of any guilty Person without Authority, <hi>Thou shalt do no Murther.</hi>
+            </p>
+            <p>In the Seventh Commandment God forbids the defiling our Neighbours Wife,
+<note place="margin">
+                  <hi>Lev.</hi> 20.10 <hi>Heb.</hi> 13.4.</note> and her suffering her self to be defiled, <hi>Thou shalt not commit Adultery.</hi>
+            </p>
+            <pb n="8" facs="tcp:30550:10"/>
+            <p> In the Eighth Commandment, God forbids the detaining from another any of his <hi>Goods,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 44.8. <hi>Eph.</hi> 4.8.</note> contrary to Right, with<g ref="char:EOLhyphen"/>out his Knowledge, or against his Will, <hi>Thou shalt not Steal.</hi>
+            </p>
+            <p>In the Ninth Commandment, God forbids any false <hi>Testimony</hi> in Cases of Judicature or otherwise,
+<note place="margin">
+                  <hi>Deut.</hi> 19.16-21 <hi>Rom.</hi> 13.9.</note>
+               <hi>Thou shalt not bear false witness.</hi>
+            </p>
+            <p>In the Tenth Commandment, God forbids even the Designing or Willing<g ref="char:EOLhyphen"/>ness to commit any of these Injuries,
+<note place="margin">
+                  <hi>Rom.</hi> 7.7.</note> which he has forbidden us to <hi>Do. Thou shalt not Covet,</hi> &amp;c.</p>
+            <p>These are the Commandments of God, and Rules of a Religious Life, V. <hi>Catech. Qu.</hi> 7.8, 9, 10, 11.</p>
+            <p>Secondly, The <hi>Explication</hi> of them by <hi>Jesus Christ,</hi> is contained in the <hi>Ser<g ref="char:EOLhyphen"/>mon on the Mount:</hi> Where we have</p>
+            <p n="1">1. An <hi>Exhortation</hi> to <hi>Religious Obe<g ref="char:EOLhyphen"/>dience,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 5. <hi>Mic.</hi> 6.8.</note> of which the Moral Law is the Rule: And in which true Religion ever did consist.</p>
+            <p n="2">2. A <hi>Caution</hi> against <hi>Pharisaical Hy<g ref="char:EOLhyphen"/>pocrisie,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 6 &amp; 7. <hi>v.</hi> 1-6.</note> which is made up of the <hi>Osten<g ref="char:EOLhyphen"/>tation</hi> of Piety, and the <hi>Licentiousness</hi> of Sin.</p>
+            <p n="3">3. An <hi>Admonition</hi> concerning the ne<g ref="char:EOLhyphen"/>cessity of living according to that <hi>Ex<g ref="char:EOLhyphen"/>hortation</hi> and <hi>Caution.</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 7.7.</note>
+            </p>
+            <pb n="9" facs="tcp:30550:10"/>
+            <p> And this Obedience to the Moral Law as explained by Jesus Christ, is the <hi>Substance</hi> of Christianity.</p>
+            <p n="3">III. The <hi>Instrumental</hi> and subordi<g ref="char:EOLhyphen"/>nate part of Christianity is either</p>
+            <p>First, <hi>Moral;</hi> or</p>
+            <p>Secondly, <hi>Ritual.</hi>
+            </p>
+            <p>First, The instrumental part of Re<g ref="char:EOLhyphen"/>ligion which is <hi>Moral,</hi> contains in it</p>
+            <p n="1">1. <hi>Prayer;</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 6.4.</note> and</p>
+            <p n="2">2. The <hi>Ministry of the Word.</hi>
+            </p>
+            <p n="1">1. <hi>Prayer</hi> is a <hi>Means</hi> as well as an <hi>Act</hi> of Religion, and must be suited to the Doctrin of Christianity,
+<note place="margin">
+                  <hi>Luk.</hi> 11.1. &amp;c.</note> that the Worship may be Christian. The <hi>Lord's Prayer</hi> is agreeable to that Doctrin; and by it, we are directed</p>
+            <p>To address our Supplications to <hi>God,</hi> as the <hi>Best</hi> and <hi>Greatest</hi> Being; the Cre<g ref="char:EOLhyphen"/>ator and Governour of the World. <hi>Our Father which art in Heaven.</hi> And the <hi>Petitions</hi> we make to him are</p>
+            <p n="1">(1). That God may be duly <hi>Ho<g ref="char:EOLhyphen"/>noured,</hi> by all reasonable Creatures,
+<note place="margin">
+                  <hi>Isa.</hi> 6.2. <hi>Rev.</hi> 4.8.</note>
+               <hi>Hallowed be thy Name.</hi>
+            </p>
+            <p n="2">(2). That Christianity (the true Re<g ref="char:EOLhyphen"/>ligion,) may be receiv'd by all Man<g ref="char:EOLhyphen"/>kind; <hi>Thy Kingdom come.</hi>
+               <note place="margin">
+                  <hi>Mar.</hi> 1.1<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Mat.</hi> 21.43.</note>
+            </p>
+            <p n="3">(3). That <hi>all Christians</hi> may live ac<g ref="char:EOLhyphen"/>cording to the Religion they profess;
+<note place="margin">
+                  <hi>Eph.</hi> 4.1. <hi>Phil.</hi> 1.27.</note>
+               <hi>Thy Will be done in Earth as 'tis in Hea<g ref="char:EOLhyphen"/>ven.</hi>
+            </p>
+            <pb n="10" facs="tcp:30550:11"/>
+            <p> These three Petitions are for the <hi>Glory of God:</hi> Those three which fol<g ref="char:EOLhyphen"/>low, are for the <hi>Welfare of Men,</hi> viz.</p>
+            <p n="4">(4). That we may have all the neces<g ref="char:EOLhyphen"/>sary <hi>Accommodations</hi> of Life;
+<note place="margin">
+                  <hi>Prov.</hi> 30.8. <hi>Mat.</hi> 6.33.</note>
+               <hi>Give us this day our daily Bread.</hi>
+            </p>
+            <p n="5">(5). That the <hi>Punishment</hi> of our Sins may be with-holden,
+<note place="margin">
+                  <hi>Mar.</hi> 1.4. <hi>Mat.</hi> 6.14, 15.</note> upon our Repentance; <hi>Forgive us our Trespasses,</hi> &amp;c.</p>
+            <p n="6">(6). That <hi>Relapse</hi> into Sin may be prevented,
+<note place="margin">
+                  <hi>Jam.</hi> 1.13.14, 5. 1 <hi>Cor.</hi> 10.13.</note> by the Grace of God, <hi>Lead us not into Temptation,</hi> &amp;c.</p>
+            <p>After which Desires presented unto God, we <hi>Conclude</hi> with an Acknow<g ref="char:EOLhyphen"/>ledgment of the <hi>Goodness</hi> and <hi>Greatness</hi> of Him to whom we Pray;
+<note place="margin">
+                  <hi>Rev.</hi> 4.11.</note>
+               <hi>For thine is the Kingdom,</hi> &amp;c. <hi>V. Catech. Qu.</hi> 12.13.</p>
+            <p n="2">2. The <hi>Ministry of the Word</hi> is exer<g ref="char:EOLhyphen"/>cised by an Order of Men Authorised for that Purpose:
+<note place="margin">2 <hi>Tim.</hi> 4.1, 2. 2 <hi>Cor.</hi> 2.15, 16.</note> And this is the <hi>Ordi<g ref="char:EOLhyphen"/>nary Means</hi> God has provided for the Information, Persuasion, and Conso<g ref="char:EOLhyphen"/>lation of Christians.</p>
+            <p>These are <hi>Moral:</hi> For, 'tis a natu<g ref="char:EOLhyphen"/>ral Truth, That we must make our <hi>Prayers</hi> to God, and learn our <hi>Religion</hi> from Him.</p>
+            <p>Secondly,
+<note place="margin">1 <hi>Cor.</hi> 10.2.3, 4. 1 <hi>Cor.</hi> 12.13.</note> The <hi>Instrumental</hi> part of Religion which is <hi>Ritual,</hi> is the <hi>Sacra<g ref="char:EOLhyphen"/>ments</hi> of Baptism, and the Lord's Sup<g ref="char:EOLhyphen"/>per. V. <hi>Cat. Qu.</hi> 14.15, 16.</p>
+            <p n="1">
+               <pb n="11" facs="tcp:30550:11"/> 1. By <hi>Baptism</hi> (or washing with Wa<g ref="char:EOLhyphen"/>ter, into the Name of the Father,
+<note place="margin">
+                  <hi>Mat.</hi>
+                  <gap reason="illegible: blotted" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.18, 19, 2<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Acts</hi> 10.47.</note> Son and Holy Ghost, we are admitted <hi>Dis<g ref="char:EOLhyphen"/>ciples</hi> of Christ, and Professors of the Christian Religion, which God the Fa<g ref="char:EOLhyphen"/>ther Taught by the Son, and confirmed by the Holy Ghost. V. <hi>Cat. Qu.</hi> 17.18, 19, 20.</p>
+            <p n="2">2. By the Lord's-Supper, we re<g ref="char:EOLhyphen"/>member <hi>Christ,</hi> and his <hi>Death,</hi> at,
+<note place="margin">
+                  <hi>Mat.</hi> 26.26, &amp;c, <hi>Mark</hi> 14.22, &amp;c. <hi>Luke</hi> 22.19, 20. 1 <hi>Cor.</hi> 11.23-34.</note> and by which (as a <hi>Federal</hi> Rite, and the great <hi>Propitiation</hi>) the New Testament or Covenant (<hi>i. e.</hi> the <hi>Christian Religion</hi>) was set up. And as by the <hi>Death of Christ,</hi> we are absolutely <hi>obliged</hi> to Re<g ref="char:EOLhyphen"/>pentance, and the Obedience of a Ho<g ref="char:EOLhyphen"/>ly Life;
+<note place="margin">
+                  <hi>Luke</hi> 24.47.</note> and conditionally <hi>assured</hi> of Pardon and the Resurrection to a Bles<g ref="char:EOLhyphen"/>sed Immortality: So by the <hi>Solemn Re<g ref="char:EOLhyphen"/>membrance</hi> of Christ, and his Death, that Obligation and Assurance are <hi>Re<g ref="char:EOLhyphen"/>inforced.</hi> V. <hi>Cat. Qu.</hi> 21.22, 23, 24, 25.</p>
+            <p>These are the <hi>Fundamental,</hi> the <hi>Sub<g ref="char:EOLhyphen"/>stantial,</hi> and the <hi>Instrumental</hi> Parts of Christianity; and in <hi>these</hi> the whole of Religion is contained.</p>
+            <p>The <hi>External Circumstances</hi> of <hi>Order</hi> and <hi>Decency</hi> are provided for, by the Laws of every <hi>Christian Church:</hi> And every <hi>Private Christian</hi> is to study the publick Peace, and his own Edification:
+<pb n="12" facs="tcp:30550:12"/>For which Purpose, there is no M<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> or Advantages to be had in any Chur<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> which is wanting in ours.</p>
+            <div type="prayer">
+               <head>The Lord's Prayer.</head>
+               <p>Our Father, which art in Heaven.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="paraphrase">
+                           <head>The Paraphrase.</head>
+                           <p>MOST Great and Blessed <hi>Lo<gap reason="illegible: in gutter" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> God;</hi> The Creator and Gove<gap reason="illegible: in gutter" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                              <g ref="char:EOLhyphen"/>nor of the World, the Father of Sp<gap reason="illegible: in gutter" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                              <g ref="char:EOLhyphen"/>rits, and of our Lord <hi>Jesus Christ.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Hallowed be thy Name.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="paraphrase">
+                           <p>May all <hi>Reasonable-Creatures</hi> who a<gap reason="illegible: in gutter" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> capable to understand thy Perfections o<gap reason="illegible: in gutter" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> Wisdom, Goodness and Power, ad<g ref="char:EOLhyphen"/>mire and celebrate <hi>Thee,</hi> according to the glorious Manifestations of thy Self to Them.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Thy Kingdom Come.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="paraphrase">
+                           <p>May all <hi>Mankind</hi> come to the <hi>Know<g ref="char:EOLhyphen"/>ledge</hi> and <hi>Belief</hi> of thy True Religion (and the <hi>Kingdom of Heaven upon Earth</hi> be set up among them) in which, the eternal <hi>Laws</hi> of Righteousness, with the greatest Clearness, Certainty and</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
